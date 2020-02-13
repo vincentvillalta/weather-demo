@@ -1,0 +1,53 @@
+PODS:
+  - Alamofire (5.0.0-rc.3)
+  - PromiseKit (6.13.1):
+    - PromiseKit/CorePromise (= 6.13.1)
+    - PromiseKit/Foundation (= 6.13.1)
+    - PromiseKit/UIKit (= 6.13.1)
+  - PromiseKit/CorePromise (6.13.1)
+  - PromiseKit/Foundation (6.13.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.13.1):
+    - PromiseKit/CorePromise
+  - ReSwift (5.0.0)
+  - ReSwiftRouter (0.7.1):
+    - ReSwift (~> 5.0.0)
+  - ReSwiftThunk (1.2.0):
+    - ReSwift (~> 5.0)
+    - ReSwiftThunk/Core (= 1.2.0)
+  - ReSwiftThunk/Core (1.2.0):
+    - ReSwift (~> 5.0)
+  - SnapKit (5.0.1)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.3)
+  - PromiseKit (~> 6.8)
+  - ReSwift
+  - ReSwiftRouter
+  - ReSwiftThunk (= 1.2.0)
+  - SnapKit (~> 5.0.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - PromiseKit
+    - ReSwift
+    - ReSwiftRouter
+    - ReSwiftThunk
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ca8c0de6906873be89d6deec5c8de279e00bf872
+  PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
+  ReSwift: 628f1a9b3ee52e3b3ca2a644435472fd77afafe1
+  ReSwiftRouter: 916d8f940dbecc1d32dc1912b8f1891c7bcc7836
+  ReSwiftThunk: 23c8ea9092d9dc94b72005f19352dbd37fa42533
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: a3566cc2742e9d1214569ea2dc205f25b6aef731
+
+COCOAPODS: 1.8.3
